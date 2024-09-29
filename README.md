@@ -6,7 +6,8 @@
 研究方法:
 我們的資料集來源為ISIC201皮膚癌疾病資料集，裡面包含三種不一樣的疾病狀態包含: Seborrheic keratosis、Melanoma、Navis，我們計畫透過mobile101、VGG19、RESNET18與自製簡易CNN模型嘗試分辨出三種不同的疾病，並將推論程式部屬在JETSON NANO開發板上，然後利用FLASK網頁腳本將手機鏡頭拍攝到的皮膚畫面透過開發板進行實時預測
 設備與計畫流程:
-	 
+![image](https://github.com/user-attachments/assets/fddea05c-47d8-40cb-861c-2f3424c95d1b)
+
 圖一.簡要說明(設備與我們想達成的目標)
 
 	 
