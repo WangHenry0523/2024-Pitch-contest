@@ -15,22 +15,24 @@
 	 
 圖二.研究計畫流程圖
 
+
+
+
+## 硬體與軟體架構流程圖設計:
+
 ![image](https://github.com/user-attachments/assets/1d1bcefa-318b-438c-a0df-d8fc07441321)
 
-
-硬體與軟體架構流程圖設計:
-
-![image](https://github.com/user-attachments/assets/f7311af4-8ca9-466b-9393-ef56a1d16c7a)
 
  
 圖三.硬體架構設計
 
-![image](https://github.com/user-attachments/assets/952b5b16-20de-4c1a-bd7b-538decb58223)
-
+![image](https://github.com/user-attachments/assets/f7311af4-8ca9-466b-9393-ef56a1d16c7a)
 
 圖四.軟體架構流程圖
 
- 
+![image](https://github.com/user-attachments/assets/952b5b16-20de-4c1a-bd7b-538decb58223) 
+![image](https://github.com/user-attachments/assets/8e024d6b-bb01-4feb-9a31-3e2311c5200a)
+
  
 圖五.深度學習軟體架構設計(運用RESNET18模型對兩種皮膚癌疾病分別進行預測)
 
