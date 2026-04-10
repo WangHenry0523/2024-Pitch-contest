@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    body {
+      background-color: #f8f9fa;
+      font-family: 'Times New Roman', Times, serif;
+    }
+    .container {
+      background-color: #ffffff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      color: #007bff;
+    }
+    .btn-custom {
+      color: white;
+      background-color: #007bff;
+      border: none;
+    }
+    .btn-custom:hover {
+      color: black;
+      background-color: #007bff;
+    }
+    .form-group {
+      text-align: center;
+    }
+    .form-control-file {
+      display: inline-block;
+      width: auto;
+    }
+  </style>
+  <title>Upload Image</title>
+</head>
+<body>
+  <div class="container mt-5">
+    <h1 class="text-center">Skin Disease Detection</h1>
+    <form method="post" enctype="multipart/form-data" action="/result" class="mt-4 justify-content-center">
+      <div class="form-group">
+        <input type="file" name="file" class="form-control-file">
+      </div>
+      <div class="form-group text-center">
+        <button type="submit" class="btn btn-custom">Upload</button>
+      </div>
+    </form>
+  </div>
+</body>
+</html>
